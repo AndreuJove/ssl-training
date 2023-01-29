@@ -86,4 +86,4 @@ Check if cronjob is already created by certbot:
 /etc/cron.d/certbot
 
 Use:
-crontab -e
+$ crontab -e
